@@ -253,8 +253,7 @@ TPS用語の活用: 「現地現物」「四現主義」「標準作業」「指
 
 ### 「NotebookLMの共有リンクから、6本の原稿をベースにしたAI対話を体験できます。個別のチャット履歴は公開されませんので、安心してあなた自身の『指図』を試し、Hanamaruki式の思考構造を体感してください。」
 
-NOTEBOOKLM　URL　（https://notebooklm.google.com/notebook/ac8ae99d-796d-4d42-8b60-16ef58982e0e）
-
+NOTEBOOKLM　URL　
 ---
 
 # SOV 4.5 A: Custom Models Framework / 構造型テンプレート SOV 4.5 A
