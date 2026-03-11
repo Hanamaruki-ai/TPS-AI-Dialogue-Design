@@ -3,6 +3,10 @@ A systematic methodology applying Toyota Production System (TPS) principles to A
 
 ---
 
+<img width="1920" height="1080" alt="yuutube1920ｘ1080" src="https://github.com/user-attachments/assets/785b3fa5-d423-4c4f-b5bc-c6028d7ce8e5" />
+
+---
+
 ## [English]
 ## Most AI interactions fail because they are treated as one-way "commands." This repository redefines AI dialogue through the lens of TPS (Toyota Production System).
 
